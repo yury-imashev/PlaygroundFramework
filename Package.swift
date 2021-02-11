@@ -19,6 +19,6 @@ let package = Package(
         .binaryTarget(
             name: "PlaygroundFramework",
             url: "https://github.com/someyura/PlaygroundFramework/blob/main/Release/PlaygroundFramework.xcframework.0.0.1.zip",
-            checksum: "e8c8d13ed57b7e93e684fd7bd5f718a06fcc227274c99cab3d3fe23b0c179c49")
+            checksum: "4ed921c0a214a12c3b1df513742aad2294494e451e04649a23af09fa30391777")
     ]
 )
