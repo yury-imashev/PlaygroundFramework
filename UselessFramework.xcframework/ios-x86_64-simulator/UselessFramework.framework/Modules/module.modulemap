@@ -1,0 +1,11 @@
+framework module UselessFramework {
+  umbrella header "UselessFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module UselessFramework.Swift {
+    header "UselessFramework-Swift.h"
+    requires objc
+}
